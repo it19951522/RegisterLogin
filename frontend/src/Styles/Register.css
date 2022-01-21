@@ -1,0 +1,112 @@
+#RegisterPage{
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    height: 19.45cm;
+    width: 100%;
+    background-color: #00008B;
+}
+
+
+#formreg{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(240, 234, 234);
+    margin-top: 3cm;
+    width: 12cm;
+    height: 13.5cm;
+    padding: 30px;
+    margin-left: 15cm;   
+    border-radius: 1px;
+}
+
+/* #formlogin1{
+    margin-left: 10cm;
+    
+} */
+
+#rtext1{
+    color: rgb(0, 0, 0);
+    margin-left: 2.6cm;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:serif;
+}
+#rtext2{
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: -0.5cm;
+    background-color: #01012e;
+    font-family:serif;
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 15px;
+    letter-spacing: 2px;
+}
+#rtext2:hover{
+    background-color: #1a75ff;
+    border-radius: 20px;
+    color: black;
+}
+#rtext3{
+    color: rgb(136, 136, 136);
+    font-family:serif;
+    font-size: 16px;
+    margin-left: 3.1cm;
+}
+#rtext4{
+    color: rgb(102, 102, 102);
+    font-family:serif;
+    font-size: 19px;
+    margin-left: 2.8cm;
+    text-decoration: none;
+}
+#rtext4:hover{
+    color: rgb(19, 2, 255);
+    text-decoration: none;
+}
+
+#rtb1 {
+    width: 100%;
+    font-family:serif;
+    
+    border-radius: 10px;
+    border-color: rgb(76, 165, 224);
+}
+
+/* #image1{
+    margin-left: -4cm;
+} */
+
+#c2{
+    background-image: url('../Images/bluebackground1.jpg');
+    background-repeat: no-repeat;
+    background-size: 12cm 12.5cm;
+    width: 12cm;
+    height: 12.5cm;
+    background-color: darkblue;
+    margin-left: 21.5cm;
+   
+    margin-top: -12.5cm;
+}
+#rtext5{
+    color: #01012e;
+    margin-left: 2cm;
+    font-size: 46px;
+    font-family:serif;
+    font-weight:bold;
+}
+
+#rtext6{
+    color: #01012e;
+    margin-left: 1cm;
+    font-size: 42px;
+    font-family:serif;
+    font-weight:bold;
+}
+#rtext7{
+    color: rgb(5, 8, 63);
+    margin-left: 0.7cm;
+    font-size: 14px;
+    font-family:serif;
+}
